@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+2
 <!--
 3
         Created by ApplusForm.com on 2013.8.6 
@@ -47,7 +48,7 @@
 25
 ​
 26
-                                <RADIO id="defaultMenu" themeId="menuItem" title="최신뉴스" url="http://m.projectgarage.co.kr" selected="true">
+                                <RADIO id="defaultMenu" themeId="menuItem" title="최신뉴스" url="http://m.mafra.go.kr/bbs/list.jsp?board_division=b_sec_1&amp;menu_gubun=menu_1" selected="true">
 27
                                         <LABEL themeId="menuItemIcon" defaultImg="/res/news.png" />
 28
@@ -95,24 +96,4 @@
 49
                                 </RADIO>
 50
-                                <WINDOW themeId="menuSeparator" />
-51
-                                <RADIO themeId="menuItem" title="통계" url="http://m.mafra.go.kr/bbs/stat_chart.jsp?menu_gubun=menu_6" >
-52
-                                        <LABEL themeId="menuItemIcon" defaultImg="/res/stats.png" />
-53
-                                        <LABEL themeId="menuItemLabel" text="{parent.title}" />
-54
-                                </RADIO>
-55
-                                <WINDOW themeId="menuSeparator" />
-56
-                                <RADIO themeId="menuItem" title="농식품가격" url="http://m.okdab.com/mb/" >
-57
-                                        <LABEL themeId="menuItemIcon" defaultImg="/res/price.png" />
-58
-                                        <LABEL themeId="menuItemLabel" text="{parent.title}" />
-59
-                                </RADIO>
-60
                                 <WINDOW themeId="menuSeparator" />
